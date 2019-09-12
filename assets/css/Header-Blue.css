@@ -201,7 +201,7 @@
   border: 1px solid #444;
   background-color: #aaa;
   overflow: hidden;
-  background: url(../../assets/img/screen-content-iphone-6.jpg);
+  background: url(../../assets/img/screen-content-iphone-6.jpg?h=31b8b08fbd2f33f084d8469966ac3898);
   background-size: cover;
   background-position: center;
 }
